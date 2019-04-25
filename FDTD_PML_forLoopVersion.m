@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Copyright: Copyright (c) 2018
 %Created on 2018-4-5  
-%Author:dilipili
+%Author:MengDa (github:pilidili)
 %Version 1.0 
 %Title: FDTD_PML_forLoopVersion
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
