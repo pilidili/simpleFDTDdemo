@@ -1,4 +1,13 @@
- %function Two_PML=Two_PML(time,freq)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Copyright: Copyright (c) 2018
+%Created on 2018-4-5  
+%Author:dilipili
+%Version 1.0 
+%Title: FDTD_PML_forLoopVersion
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+clear;clc;close all;
+
 time=3000;
 freq=500;
 t1=clock;
